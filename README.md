@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raushan Raj</h1>
 <h3 align="center">A passionate Java backend developer from India</h3>
-<img allign="centre" width="50%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img allign="lright" width="50%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushanraj901" alt="raushanraj901" /></a> </p>
 
 - 🔭 I’m currently working on [Null](Null)
