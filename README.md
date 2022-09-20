@@ -1,3 +1,4 @@
+<img align="centre" width="100%" src="https://github.com/raushanraj901/raushanraj901/blob/main/profilelogo.png">
 
 <h1 align="center">Hi 👋, I'm Raushan Raj</h1>
 <h3 align="center">A passionate Java backend developer from India</h3>
