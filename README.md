@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance Java, SQL etc.**
 
-- 👨‍💻 All of my projects are available at **[@Raushan Raj](https://github.com/raushanraj901)**
+- 👨‍💻 All of my projects are available at **[@Raushan Raj](https://raushanraj901.github.io/)**
 
 - 💬 Ask me about **Java, JavaScript, Data Structure And Algorithm**
 
