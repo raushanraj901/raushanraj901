@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance Java, SQL etc.**
 
-- 👨‍💻 All of my projects are available at [https://raushanraj901.netlify.app](Portfolio)
+- 👨‍💻 All of my projects are available at [https://raushanraj901.github.io/](Portfolio)
 
 - 💬 Ask me about **Java, JavaScript, Data Structure And Algorithm**
 
