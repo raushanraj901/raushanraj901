@@ -5,15 +5,9 @@
 <img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
-- 🔭 I’m currently working on [Null](Null)
-
 - 🌱 I’m currently learning **Advance Java, SQL etc.**
 
-- 👯 I’m looking to collaborate on [Null](Null)
-
-- 🤝 I’m looking for help with [Null](Null)
-
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [https://raushanraj901.netlify.app](Portfolio)
 
 - 💬 Ask me about **Java, JavaScript, Data Structure And Algorithm**
 
